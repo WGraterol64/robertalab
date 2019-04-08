@@ -141,3 +141,5 @@ first.
 We are using Blockly, it is located in a separate repository. The build of the blockly is only done in the OpenRoberta/Blockly project and then copied to the OpenRobertaServer/staticResources. You can not build Blockly in OpenRobertaServer project directly.
 
 #### Have a look at the notes in LICENCE and NOTICE
+
+Here we go!
